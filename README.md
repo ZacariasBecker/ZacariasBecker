@@ -6,7 +6,7 @@
 - I’m currently learning JavaScript and related web and mobile technologies like ReactJS, React Native and NodeJs
 
 ## Personal goals:
-- Me tornar um JavaScript fullStack developer de alto nivel
+- Become a high level fullstack JavaScript developer
 - Devote more time to Python
 - Back to study Java
 
