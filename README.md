@@ -1,13 +1,13 @@
 # Hi there 👋
 ## who I am ?
-- I'm a computer scientist focused on improve my front-end and back-end skills
+- I'm a computer scientist focused on improve my front-end and back-end skills 
 
 ## What am I working on now?
 - I’m currently learning JavaScript and related web and mobile technologies like ReactJS, React Native and NodeJs
 
 ## Personal goals:
 - Become a high level fullstack JavaScript developer
-- Devote more time to Python
+- Devote more time to Python :snake:
 - Back to study Java
 
 ## Goals for this year:
