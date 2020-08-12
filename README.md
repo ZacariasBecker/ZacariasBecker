@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<br/> 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zacarias%20Becker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-zacarias-becker-pereira-47a06a1a2/)](https://www.linkedin.com/in/jos%C3%A9-zacarias-becker-pereira-47a06a1a2/) 
+- 🔭 I’m focused on improve my front-end and back-end skills
+- 🌱 I’m currently learning JavaScript and related web and mobile technologies like ReactJS, React Native and NodeJs
+- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-Zacarias%20Becker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-zacarias-becker-pereira-47a06a1a2/)](https://www.linkedin.com/in/jos%C3%A9-zacarias-becker-pereira-47a06a1a2/) 
 | [![Gmail Badge](https://img.shields.io/badge/-zacariasbecker@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacariasbecker@gmail.com)](mailto:zacariasbecker@gmail.com)
 
 <!--
@@ -17,9 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 🔭 I’m focused on developing my front-end and back-end skills
-- 🌱 I’m currently learning JavaScript and related web and mobile technologies like ReactJS as React Native
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zacarias%20Becker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-zacarias-becker-pereira-47a06a1a2/)](https://www.linkedin.com/in/jos%C3%A9-zacarias-becker-pereira-47a06a1a2/) 
+- 🔭 I’m focused on improve my front-end and back-end skills
+- 🌱 I’m currently learning JavaScript and related web and mobile technologies like ReactJS, React Native and NodeJs
+- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-Zacarias%20Becker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-zacarias-becker-pereira-47a06a1a2/)](https://www.linkedin.com/in/jos%C3%A9-zacarias-becker-pereira-47a06a1a2/) 
 | [![Gmail Badge](https://img.shields.io/badge/-zacariasbecker@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacariasbecker@gmail.com)](mailto:zacariasbecker@gmail.com)
 
 -->
