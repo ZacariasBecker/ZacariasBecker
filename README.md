@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## who I am ?
+## Who I am ?
 - :man_technologist: I'm a computer scientist focused on improve my front-end and back-end skills 
 
 ## What am I working on now?
