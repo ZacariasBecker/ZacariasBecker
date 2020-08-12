@@ -8,7 +8,13 @@
 ## Personal goals:
 - Become a high level fullstack JavaScript developer
 - Devote more time to Python :snake:
-- Back to study Java
+- Back to study Java :coffee:
+
+- :snake: Devote more time to Python 
+- :coffee: Back to study Java :coffee:
+
+:snake: Devote more time to Python 
+ :coffee: Back to study Java :coffee:
 
 ## Goals for this year:
 - Create and post more projects
