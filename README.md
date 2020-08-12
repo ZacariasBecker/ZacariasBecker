@@ -1,24 +1,18 @@
 # Hi there 👋
 ## who I am ?
-- I'm a computer scientist focused on improve my front-end and back-end skills 
+- :man_technologist: I'm a computer scientist focused on improve my front-end and back-end skills 
 
 ## What am I working on now?
-- I’m currently learning JavaScript and related web and mobile technologies like ReactJS, React Native and NodeJs
+- :atom_symbol: I’m currently learning JavaScript and related web and mobile technologies like ReactJS, React Native and NodeJs
 
 ## Personal goals:
-- Become a high level fullstack JavaScript developer
-- Devote more time to Python :snake:
-- Back to study Java :coffee:
-
-- :snake: Devote more time to Python 
-- :coffee: Back to study Java :coffee:
-
-:snake: Devote more time to Python 
- :coffee: Back to study Java :coffee:
+- :hammer_and_wrench: Become a high level fullstack JavaScript developer
+- :snake: Devote more time to Python
+- :coffee: Back to study Java
 
 ## Goals for this year:
-- Create and post more projects
-- Work together on projects to gain new points of view and build new group knowledges 
+- :memo: Create and post more projects
+- :busts_in_silhouette: Work together on projects to gain new points of view and build new group knowledges 
 
 
 ## 📫 How to reach me:
