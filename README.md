@@ -21,7 +21,7 @@
 | [![Gmail Badge](https://img.shields.io/badge/-zacariasbecker@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacariasbecker@gmail.com)](mailto:zacariasbecker@gmail.com)
 
 <!--
-**ZacariasBecker/ZacariasBecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZacariasBecker/ZacariasBecker**  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
