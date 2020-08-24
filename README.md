@@ -11,7 +11,7 @@
 - :snake: Devote more time to Python;
 - :coffee: Back to study Java.
 
-## Goals for this year:
+## Goals for this year: 
 - :memo: Create and post more projects;
 - :busts_in_silhouette: Work together on projects to gain new points of view and build new group knowledges.
 
